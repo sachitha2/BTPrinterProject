@@ -35,7 +35,7 @@ public class ConnectToPrinter extends AppCompatActivity {
     final String SPACES = "         ";//9
     final String uline = "________________________________________";
     final String dline = "----------------------------------------";
-
+    //sachitha hirushan
     ///Font Helpers
     Button btnOn, btnOff;
     Bitmap bitmap;
