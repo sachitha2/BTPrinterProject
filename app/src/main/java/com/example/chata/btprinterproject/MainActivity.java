@@ -1,3 +1,9 @@
+/***
+ * Sachitha hirushan premarathna
+ *
+ *
+ */
+
 package com.example.chata.btprinterproject;
 
 import android.bluetooth.BluetoothAdapter;
